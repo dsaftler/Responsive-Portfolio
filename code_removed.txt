@@ -1,0 +1,19 @@
+g-pattern {
+    clear: both;
+  /* margin-top: 40px; */
+  padding: 5px;
+  /* background-color: #b1f3f3;  */
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  
+  background-image: url("../images/circles-light.png");
+  border-style: solid;
+  border-top-color: #999a9b;
+  border-top-width: 2px;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 6px;
+
+}
